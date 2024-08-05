@@ -21,10 +21,10 @@ const Modal = dynamic(() => import('react-modal'))
 
 const people = [
 	{
-		screenName: 'aboutaugusto',
-		name: 'Augusto Lopes',
+		screenName: 'trhacknon',
+		name: 'trhacknon anon',
 		role: 'Product Designer',
-		social: 'twitter',
+		social: 'telegram',
 		photo: augustoLopes,
 	},
 	{
@@ -76,7 +76,7 @@ const FavyconInfo = ({
 			<div className={styles.bodyDesktop}>
 				<ToolTitle />
 				<Typography variant="largeBody" weight="medium" className={styles.firstParagraph}>
-					A small online tool to help you generate your favicon in all the sizes and formats you need.
+					A small online tool by trhacknon to help you generate your favicon in all the sizes and formats you need.
 				</Typography>
 				<Typography variant="largeBody" weight="medium" className={styles.secondParagraph}>
 					Just drag &amp; drop an image and you will then get a downloadable file alongside some documentation on how to
@@ -117,7 +117,7 @@ const FavyconInfo = ({
 						<div className={styles.modalHeaderMobile}>
 							<ToolTitle hideLogo small />
 							<Typography variant="largeBody" weight="medium" className={styles.firstParagraph}>
-								A small online tool to help you generate your favicon in all the sizes and formats you need.
+								A small online tool by Trhacknon to help you generate your favicon in all the sizes and formats you need.
 							</Typography>
 							<Typography variant="largeBody" weight="medium" className={styles.secondParagraph}>
 								Just drag &amp; drop an image and you will then get a downloadable file alongside some documentation on
@@ -195,7 +195,7 @@ const FavyconInfo = ({
 								Project on{' '}
 								<a
 									className={styles.repo}
-									href="https://github.com/ruisaraiva19/favycon"
+									href="https://github.com/tucommenceapousser/favycon"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
