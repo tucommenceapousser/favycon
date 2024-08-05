@@ -62,8 +62,8 @@ const Home: NextPage = () => {
 	return (
 		<BaseLayout>
 			<SEO
-				title="Favycon - A favicon generator tool"
-				description="A small online tool to help you generate your favicon in all the sizes and formats you need."
+				title="Favycon - A favicon generator tool by TRHACKNON"
+				description="A small online tool by TRHACKNON to help you generate your favicon in all the sizes and formats you need."
 			/>
 			<main className={styles.main}>
 				<div className={styles.container}>
